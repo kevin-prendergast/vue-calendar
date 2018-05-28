@@ -1,6 +1,4 @@
-# Fullstack Vue
-
-## Single-file components - Calendar App
+# Fullstack Vue Single-file components - Calendar App
 
 1. Ensure you have `npm` installed.
 
@@ -15,5 +13,3 @@ npm install
 ````
 npm run dev
 ````
-
-The server is now running - watch the console output for instructions, but by default, your server is now running (with hot reload) at [http://localhost:8080/](http://localhost:8080/)
